@@ -26,5 +26,6 @@
     "description": "Experience the thrill of a wildlife safari and see exotic animals.",
     "price": 2500,
     "duration": "6 days"
-  }
+  },
+  {}
 ]
